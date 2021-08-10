@@ -40,6 +40,26 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Your Department Choice 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-31 07:37:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fe7a0fb2fe5301039e1cc96f699b645</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-10 07:01:51</sys_updated_on>
+            <value>your_choice1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
@@ -55,6 +75,26 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-07-31 07:37:47</sys_updated_on>
             <value>hr2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Your Department Choice 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-31 07:37:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7e7a0fb2fe5301039e1cc96f699b648</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-10 07:01:51</sys_updated_on>
+            <value>your_choice2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -141,40 +181,20 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Your Department Choice 1</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-07-31 07:37:47</sys_created_on>
+            <sys_created_on>2021-08-10 07:01:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2fe7a0fb2fe5301039e1cc96f699b645</sys_id>
+            <sys_id>b29fb7f62f75701039e1cc96f699b624</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-31 07:37:47</sys_updated_on>
-            <value>your_choice1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_what_needed</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Your Department Choice 2</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>7</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-07-31 07:37:47</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>e7e7a0fb2fe5301039e1cc96f699b648</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-31 07:37:47</sys_updated_on>
-            <value>your_choice2</value>
+            <sys_updated_on>2021-08-10 07:01:51</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
